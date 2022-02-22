@@ -6,7 +6,7 @@ A tool to automate arXiv scraping.
 Instructions
 ------------
 
-* make sure that the path in main.py is the correct location of this project
+* make sure that the ``path`` variable in ``main.py`` is the correct location of this project
 * create a folder with your name in the directory ``users``
 * add a file ``config.csv`` with your name and the email address through which you want to receive the arxiv mailing (copy from ``users/bart`` and adapt)
 * add a file ``categories.txt`` with your arxiv categories (copy from ``users/bart`` and adapt)
@@ -21,6 +21,8 @@ Tips
 
 Dummy e-mail account
 --------------------
+
+This e-mail account is used to provide an smtp server to send the emails.
 
 * Address: cmtucla.arxiv@gmail.com
 * Password: hnKgqFpn2wPpBr9
