@@ -26,3 +26,10 @@ This e-mail account is used to provide an smtp server to send the emails.
 
 * Address: cmtucla.arxiv@gmail.com
 * Password: hnKgqFpn2wPpBr9
+
+Google doc
+----------
+
+A separate spreadsheet of useful arXiv articles is maintained at the link below:
+
+https://docs.google.com/spreadsheets/d/1JZnc8O7RcHeAS07HiHUyWxLWf4fWyy49euT-tjuJLL8/edit?usp=sharing
